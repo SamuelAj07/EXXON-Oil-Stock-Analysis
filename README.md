@@ -19,8 +19,30 @@
 
 [Analysis Visualisation](#analysis-visualisation)
 
-[Key Findings](#key-findings)
+[Analytical Insights](#analytical-nsights)
 
 [Actionable Recommendations](#actionable-recommendations)
 
 ---
+
+## Project Overview
+
+## Data Sources
+
+## Tools Used
+
+## Data Preparation
+
+## Data Overview 
+
+## Tabular Overview 
+
+## Exploratory Data Analysis
+
+## Analysis Visualisation
+
+## Analytical Insights
+
+## Actionable Recommendations
+
+💻 📊
