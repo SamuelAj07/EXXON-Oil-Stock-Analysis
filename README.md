@@ -21,6 +21,6 @@
 
 [Key Findings](#key-findings)
 
-[Recommendations](#recommendations)
+[Actionable Recommendations](#actionable-recommendations)
 
 ---
