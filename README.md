@@ -1,4 +1,4 @@
-<img width="577" height="21" alt="image" src="https://github.com/user-attachments/assets/ad315dec-0192-4b85-9a4b-2730800a35f7" /># EXXON-Oil-Stock-Analysis
+# EXXON-Oil-Stock-Analysis
 
 ---
 # Table of Content
