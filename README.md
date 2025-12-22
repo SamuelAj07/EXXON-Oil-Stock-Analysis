@@ -294,6 +294,75 @@ Mid-week sessions offer higher risk and reward, while end-week trading suits con
 
 ## Actionable Recommendations
 
+### EXCEL
+
+1. Timing & Entry Strategy
+   
+◻ Recommendation: i) Prioritize stock accumulation between August–September, when average prices are historically lowest.
+ii) Reduce aggressive buying during April–July, when prices tend to peak.
+
+2. Long-Term Investment Strategy
+
+◻ Recommendation:
+ Maintain Exxon as a core long-term holding rather than a short-term speculative asset.
+
+3. Volatility Risk Management
+
+◻ Recommendation:
+ Preparation should be made for sharp price movements during global economic or energy crises.
+
+4. Volume-Based Trading Signals
+
+◻ Recommendation:
+Treat abnormal volume surges as early warning or opportunity signals.
+
+5. Crisis-Period Opportunity Playbook
+
+◻Recommendation:
+Treat major price crashes as structured buying opportunities, not panic exits.
+
+6. Executive & Business-Level Decisions
+
+Recommendation:
+Align corporate planning and forecasting with mid-year price strength and late-Q3 weakness.
+
+
+### POWERBI
+
+1.  Entry & Exit Timing
+
+Accumulate positions during low-volatility months (e.g., February).
+Take profits or re-balance during high-momentum months (April).
+
+ 2. Trend-Based Decision Making
+
+Reduce buying when the 7-day MA falls below the 30-day MA.
+
+Maintain long-term positions while the 30-day MA trends upward.
+
+3. Weekday Optimization
+
+Execute major trades Tuesday–Wednesday.
+
+Avoid heavy trading on Mondays.
+
+4. Volume-Driven Strategy
+
+High volume + rising price → trend confirmation.
+
+High volume + falling price → potential reversal.
+
+ 5. Volatility Risk Control
+
+Use tighter stop-losses mid-week.
+
+Increase position stability toward Fridays.
+
+6. Liquidity Management
+
+Rebalance portfolios on Fridays to reduce slippage.
+
+
 
 ## Portfolio Value 
 
