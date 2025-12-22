@@ -294,4 +294,17 @@ Mid-week sessions offer higher risk and reward, while end-week trading suits con
 
 ## Actionable Recommendations
 
+
+## Portfolio Value 
+
+📌 This project demonstrates my ability to:
+
+📌 Translate raw financial data into insights
+
+📌 Design executive-ready dashboards
+
+📌 Generate strategic, data-backed recommendations
+
+📌 Communicate complex analytics in human-friendly language
+
 💻 📊
