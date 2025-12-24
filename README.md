@@ -113,6 +113,15 @@ Date	|Symbol	|Open	|High	|Low	|Close|	Volume|	Currency|
 1/6/2000|	XOM|	40.31|	42.91|	40.09|	42.59|	19462000|	USD|
 1/7/2000|	XOM|	42.97|	43.12|	42|	42.47|	16603800|	USD|
 
+A brief overview of pre-processed tabular datasets to be analyzed. The first 5 Columns are displayed below.
+
+Date	|Symbol	|Open	|High	|Low	|Close|	Volume|	Currency| Adj_close|Volume|Daily Change| Daily % Change| Price Range | Average Price| Volume Price Ratio | % Volatility| % Volume Change| Month |Weekdays
+|-----|----|-----|-----|-----|----|-----|-----|----|----|-----|-----|-----|----|-----|-----|----|----|---|
+1/3/2000|	XOM|	39.75|	40.38|	38.94|	39.16|	13458200|	USD|
+1/4/2000|	XOM|	38.69|	39.09|	38.25|	38.41|	14510800|	USD|
+1/5/2000|	XOM|	39|	40.88|	38.91|	40.5|	17485000|	USD|
+1/6/2000|	XOM|	40.31|	42.91|	40.09|	42.59|	19462000|	USD|
+1/7/2000|	XOM|	42.97|	43.12|	42|	42.47|	16603800|	USD|
 
 
 
