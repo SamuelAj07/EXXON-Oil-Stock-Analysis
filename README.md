@@ -23,6 +23,8 @@
 
 [Actionable Recommendations](#actionable-recommendations)
 
+[Portfolio Value](#portfolio-value)
+
 ---
 
 ## Project Overview
@@ -318,12 +320,12 @@ Treat abnormal volume surges as early warning or opportunity signals.
 
 5. Crisis-Period Opportunity Playbook
 
-◻Recommendation:
+◻ Recommendation:
 Treat major price crashes as structured buying opportunities, not panic exits.
 
 6. Executive & Business-Level Decisions
 
-Recommendation:
+◻ Recommendation:
 Align corporate planning and forecasting with mid-year price strength and late-Q3 weakness.
 
 
@@ -331,10 +333,15 @@ Align corporate planning and forecasting with mid-year price strength and late-Q
 
 1.  Entry & Exit Timing
 
+◻ Recommendation:
+
 Accumulate positions during low-volatility months (e.g., February).
+
 Take profits or re-balance during high-momentum months (April).
 
  2. Trend-Based Decision Making
+
+◻ Recommendation:
 
 Reduce buying when the 7-day MA falls below the 30-day MA.
 
@@ -342,11 +349,15 @@ Maintain long-term positions while the 30-day MA trends upward.
 
 3. Weekday Optimization
 
+◻ Recommendation:
+
 Execute major trades Tuesday–Wednesday.
 
 Avoid heavy trading on Mondays.
 
 4. Volume-Driven Strategy
+
+◻ Recommendation:
 
 High volume + rising price → trend confirmation.
 
@@ -354,11 +365,15 @@ High volume + falling price → potential reversal.
 
  5. Volatility Risk Control
 
+◻ Recommendation:
+
 Use tighter stop-losses mid-week.
 
 Increase position stability toward Fridays.
 
 6. Liquidity Management
+
+◻ Recommendation:
 
 Rebalance portfolios on Fridays to reduce slippage.
 
