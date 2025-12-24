@@ -138,6 +138,7 @@ Date	|Symbol	|Open	|High	|Low	|Close|	Volume|	Currency| Adj_close|Volume|Daily C
 
 ✒  What strategic decisions can be made from historical behavior?
 
+
 ## Analysis Visualization
 
 Chart Analysis 
