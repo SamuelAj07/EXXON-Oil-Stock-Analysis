@@ -390,7 +390,7 @@ Rebalance portfolios on Fridays to reduce slippage.
 
 ## Portfolio Value 
 
-📌 This project demonstrates my ability to:
+This project demonstrates my ability to:
 
 📌 Translate raw financial data into insights
 
