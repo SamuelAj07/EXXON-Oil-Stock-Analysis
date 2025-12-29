@@ -318,6 +318,13 @@ Mid-week sessions offer higher risk and reward, while end-week trading suits con
 
 10. Daily Percentage Change by Month
 
+◻April records the highest daily price movement.
+
+◻February shows the lowest.
+
+🔷 **Key Insight**:
+Market momentum peaks in Q2, especially April.
+
 
 ## Actionable Recommendations
 
