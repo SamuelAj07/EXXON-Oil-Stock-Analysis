@@ -309,6 +309,8 @@ The stock exhibits predictable seasonality, making it suitable for structured en
 🔷 **Key Insight**:
 Mid-week sessions offer higher risk and reward, while end-week trading suits conservative strategies.
 
+10. Daily Percentage Change by Month
+
 
 ## Actionable Recommendations
 
