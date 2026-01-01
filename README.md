@@ -158,6 +158,11 @@ Chart Analysis
 
 <img width="1556" height="554" alt="Screenshot (519)" src="https://github.com/user-attachments/assets/ebaed00e-bf80-47b2-8770-f9b7a43778e6" />
 
+*Exxon oil stocks dashboard using PowerBi*
+
+<img width="1121" height="633" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/7e23aef2-2e81-4536-a6c7-c71dedd3384d" />
+
+<img width="1108" height="621" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/6eaa3b75-5efa-489e-9ea8-15c5bc38b81b" />
 
 
 ## Analytical Insights
