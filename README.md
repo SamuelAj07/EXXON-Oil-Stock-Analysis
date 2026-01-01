@@ -57,6 +57,15 @@ iv. Data Types Corrections
 
 v. Analytical Functions
 
+- Daily cahnge = Close - Open
+- % Daily Change = (Daily change/close) * 100
+- Price range = High - Low 
+- Average Price = (High + Low)/2
+- Volume Price Ratio = Volume / Close
+- % Volatility = (High - Low )/ Open * 100
+- % Volume change = (G2 - G1)/G1 * 100
+  
+
 vi. DAX computation
 
 ## Data Overview 
