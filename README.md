@@ -23,7 +23,7 @@
 
 [Actionable Recommendations](#actionable-recommendations)
 
-[Portfolio Value](#portfolio-value)
+[Project Value](#project-value)
 
 ---
 
@@ -430,7 +430,7 @@ Rebalance portfolios on Fridays to reduce slippage.
 
 
 
-## Portfolio Value 
+## Project Value 
 
 This project demonstrates my ability to:
 
