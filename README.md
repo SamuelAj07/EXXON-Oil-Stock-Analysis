@@ -39,9 +39,13 @@ The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 ## Tools Used
 
-1. Excel (Cross tab, Pivot Charts, Data Cleaning)
+1. Excel
+
+   - [Data Cleaning}(https://ibb.co/B2jLttgQhttps://ibb.co/B2jLttgQ)
+   - [Cross tab](https://ibb.co/N2nrY07x)
+   - [Pivot Charts](https://ibb.co/6cWr2mPC)
    
-2. PowerBi (DAX, KPIs, Interactive Visuals)
+3. PowerBi (DAX, KPIs, Interactive Visuals)
 
 ## Data Preparation
 
