@@ -41,7 +41,7 @@ The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 1. Excel
 
-   - [Data Cleaning](https://ibb.co/B2jLttgQhttps://ibb.co/B2jLttgQ)
+   - [Data Cleaning](https://ibb.co/B2jLttgQ)
    - [Cross tab](https://ibb.co/N2nrY07x)
    - [Pivot Charts](https://ibb.co/6cWr2mPC)
    
